@@ -1,0 +1,3 @@
+mongo < start.js
+mongo < insert.js
+mongo < update.js
